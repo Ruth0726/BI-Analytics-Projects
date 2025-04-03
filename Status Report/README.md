@@ -43,8 +43,8 @@ Fresh Beats is an innovative platform that combines music streaming with promoti
 
 ## 📄 Final Report
 
-📂 [View the Report (PDF)](link-to-your-report-here)  
-💡 *(Make sure your sharing settings allow access)*
+📂 [View the Report (PDF)](https://github.com/Ruth0726/BI-Analytics-Projects/blob/main/Status%20Report/Ruth%20Timas%20-%20Project%20Status%20Report.pdf)  
+
 
 ---
 
