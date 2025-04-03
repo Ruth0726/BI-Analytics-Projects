@@ -1,0 +1,14 @@
+📚 Contextual Requirements (as a Student)
+Completed as part of the TripleTen Business Intelligence Analyst training program
+
+Worked in the role of a beginning BI Analyst, focusing on interpreting analysis — not performing raw data calculations
+
+Tasked with reviewing a provided dataset, visualizations, and pre-written insights
+
+Required to connect business insights to real-world challenges faced by a fictional client, Fresh Beats
+
+Created a stakeholder-ready report by selecting relevant insights and visuals
+
+Communicated key findings and provided strategic business recommendations in a concise, professional format
+
+Practiced aligning data storytelling with business goals and stakeholder expectations
